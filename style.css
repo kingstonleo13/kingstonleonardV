@@ -50,12 +50,14 @@ body {
 }
 
 #footer-links-container ul {
- font-size: 1.3rem;
- font-b
+  font-size: 1.3rem;
 }
 
 @media (min-width: 768px) {
   .hero-tagline {
     font-size: 7rem;
   }
+}
+#footer-links-container ul {
+  padding-left: 30px !important;
 }
